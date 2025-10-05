@@ -8,7 +8,7 @@ const galleryItems = [
   {
     id: 1,
     type: "image",
-    src: "/galeria/6.jpg",
+    src: "/galeria/6.JPG",
     alt: "Academia moderna com equipamentos de última geração",
     title: "Área de Musculação",
   },
@@ -23,8 +23,8 @@ const galleryItems = [
   {
     id: 4,
     type: "video",
-    src: "/galeria/9.mp4",
-    thumbnail: "/galeria/9.jpg",
+    src: "/galeria/9.MP4",
+    thumbnail: "/galeria/9.JPG",
     alt: "Área de treinamento funcional",
     title: "Treinamento Funcional",
   },
@@ -39,7 +39,7 @@ const galleryItems = [
   {
     id: 10,
     type: "video",
-    src: "/galeria/4.mp4",
+    src: "/galeria/4.MP4",
     thumbnail: "/galeria/13.webp",
     alt: "Aula de spinning com atmosfera energética",
     title: "Spinning",
